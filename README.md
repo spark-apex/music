@@ -74,7 +74,7 @@ Werbefreier lokaler Musikplayer. MP3/FLAC/WAV. Synchronisierte Texte, Playlist-V
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/spark-apex/.github/main/assets/logo.png" width="48" alt="星火极点">
+<img src="https://raw.githubusercontent.com/spark-apex/sa-portal/main/frontend/public/logo.png" width="48" alt="星火极点">
 
 <br>
 
